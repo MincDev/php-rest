@@ -1,0 +1,19 @@
+{
+    "name": "mincdev/php-rest",
+    "description": "This library is a basic helper to assist with creating rest api's using php",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christopher Smit",
+            "email": "christopher@mincdevelopment.co.za"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PHPRest\\": "PHPRest/"
+        }
+    }
+}
