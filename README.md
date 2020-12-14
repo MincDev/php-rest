@@ -1,5 +1,5 @@
 # php-rest
-A simple Restful API framework to quickly and easily setup your own API's
+This library is a basic helper to assist with creating Restful API's using php
 
 ## Installation
 
